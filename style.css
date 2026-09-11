@@ -70,36 +70,34 @@ nav a:hover {
 
 .hero {
   max-width: 1220px;
-
   margin: 0 auto;
 
-  padding: 55px 20px 60px;
+  /*
+    Much smaller gap between
+    header and hero content
+  */
+  padding: 60px 42px 100px;
 
   display: flex;
   flex-direction: column;
-  justify-content: center;
 }
 
-.eyebrow,
-.section-label,
-.project-type,
-.writing-item span {
+.eyebrow {
+  margin-bottom: 28px;
+
   font-size: 12px;
   font-weight: 800;
+
   letter-spacing: 0.18em;
   text-transform: uppercase;
 }
 
-.eyebrow {
-  margin-bottom: 32px;
-}
-
 h1 {
-  max-width: 1000px;
+  max-width: 1080px;
 
   margin: 0;
 
-  font-size: clamp(58px, 7.5vw, 112px);
+  font-size: clamp(58px, 7.2vw, 108px);
 
   line-height: 0.94;
 
@@ -132,7 +130,7 @@ h1 {
 
   flex-wrap: wrap;
 
-  margin-top: 38px;
+  margin-top: 34px;
 }
 
 .button {
@@ -161,6 +159,10 @@ h1 {
   background: transparent;
 }
 
+.button:hover {
+  opacity: 0.8;
+}
+
 
 /* =========================
    BADGES
@@ -175,7 +177,7 @@ h1 {
 
   flex-wrap: wrap;
 
-  margin-top: 42px;
+  margin-top: 38px;
 }
 
 .badges span {
@@ -440,11 +442,12 @@ footer {
   }
 
   .hero {
-    padding: 120px 30px 100px;
+    padding: 55px 30px 90px;
   }
 
   .section {
     padding: 100px 30px;
+
     gap: 45px;
   }
 }
@@ -465,7 +468,7 @@ footer {
   }
 
   .hero {
-    padding: 90px 24px 90px;
+    padding: 50px 24px 80px;
   }
 
   h1 {
@@ -474,10 +477,12 @@ footer {
 
   .hero-text {
     font-size: 19px;
+
+    margin-top: 34px;
   }
 
   .actions {
-    margin-top: 32px;
+    margin-top: 30px;
   }
 
   .badges {
