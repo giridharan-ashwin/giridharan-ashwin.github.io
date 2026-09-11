@@ -73,7 +73,7 @@ nav a:hover {
 
   margin: 0 auto;
 
-  padding: 145px 42px 120px;
+  padding: 105px 42px 100px;
 
   display: flex;
   flex-direction: column;
@@ -95,7 +95,7 @@ nav a:hover {
 }
 
 h1 {
-  max-width: 1050px;
+  max-width: 1000px;
 
   margin: 0;
 
