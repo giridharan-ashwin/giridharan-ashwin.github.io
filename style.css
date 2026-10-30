@@ -25,7 +25,17 @@ a {
   text-decoration: none;
 }
 
-
+/* Professional profile photo */
+.profile-photo {
+  display: block;
+  width: 144px;
+  height: 144px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  margin-bottom: 32px;
+  border: 1px solid #d8d7d1;
+}
 /* =========================
    NAVIGATION
 ========================= */
