@@ -1,0 +1,90 @@
+{
+  "lastReviewed": "2026-11-24",
+  "note": "Verified public links currently indexed from Medium and DEV.to. Add each LinkedIn post using its individual public URL when available.",
+  "posts": [
+    {
+      "title": "When an AI Agent Is Manipulated: Designing Runtime Security Against Prompt Injection",
+      "platform": "Medium",
+      "category": "AI Security",
+      "summary": "Why prompt injection is an application-security problem involving trust boundaries, identity, authorization and execution control.",
+      "url": "https://medium.com/@gashwin7/when-an-ai-agent-is-manipulated-designing-runtime-security-against-prompt-injection-8c9bc29b7932"
+    },
+    {
+      "title": "AI Agents Need an Identity Layer: The Missing Infrastructure Behind Enterprise Agent Adoption",
+      "platform": "Medium",
+      "category": "Agentic AI",
+      "summary": "A proposed identity and authorization layer for agents across models, frameworks, cloud environments and enterprise services.",
+      "url": "https://medium.com/@gashwin7/ai-agents-need-an-identity-layer-the-missing-infrastructure-behind-enterprise-agent-adoption-56c1cfaa65bc"
+    },
+    {
+      "title": "Cross-Tenant Data Leakage in RAG Systems: The Multi-Tenant AI Security Problem",
+      "platform": "Medium",
+      "category": "RAG · Security",
+      "summary": "Why tenant isolation must extend across ingestion, retrieval, reranking, caching, memory and generation.",
+      "url": "https://medium.com/@gashwin7/cross-tenant-data-leakage-in-rag-systems-the-multi-tenant-ai-security-problem-2329fa9705df"
+    },
+    {
+      "title": "Your AI Agent Just Executed the Same Payment Twice. Designing Reliable Execution for AI Agents",
+      "platform": "Medium",
+      "category": "Distributed Systems",
+      "summary": "Idempotency, durable operation state, retries and reconciliation for agents that trigger real-world operations.",
+      "url": "https://medium.com/@gashwin7/your-ai-agent-just-executed-the-same-payment-twice-designing-reliable-execution-for-ai-agents-d257cf148a33"
+    },
+    {
+      "title": "Before Building Smarter AI, We Need to Get Better at Managing Data",
+      "platform": "Medium",
+      "category": "Data Architecture",
+      "summary": "Why information quality, structure, freshness and provenance matter as much as model selection.",
+      "url": "https://medium.com/@gashwin7/before-building-smarter-ai-we-need-to-get-better-at-managing-data-84524d17136e"
+    },
+    {
+      "title": "Why Naive RAG Fails in Production: From Chunking and Top-K to Relevance Filtering and Reranking",
+      "platform": "Medium",
+      "category": "RAG · AI Architecture",
+      "summary": "How chunking, hybrid retrieval, similarity thresholds, reranking and evaluation improve enterprise RAG pipelines.",
+      "url": "https://medium.com/@gashwin7/why-naive-rag-fails-in-production-from-chunking-and-top-k-to-relevance-filtering-and-reranking-c3e68bca1605"
+    },
+    {
+      "title": "PHP2Shell: When AI Accelerates Vulnerability Discovery, Is Our Software Engineering Lifecycle Ready?",
+      "platform": "Medium",
+      "category": "Cybersecurity · AI",
+      "summary": "What a critical PHP security incident reveals about legacy software, vulnerability discovery and secure engineering practices.",
+      "url": "https://medium.com/@gashwin7/php2shell-when-ai-accelerates-vulnerability-discovery-is-our-software-engineering-lifecycle-ready-ce8a5acb45a2"
+    },
+    {
+      "title": "Event-Driven Architecture for AI Agents: Applying Kafka, Pub/Sub, and Redis to Scale LLM Systems",
+      "platform": "Medium",
+      "category": "Cloud · Agentic AI",
+      "summary": "Using event brokers, queryable state and caching to build scalable agent workflows.",
+      "url": "https://medium.com/@gashwin7/event-driven-architecture-for-ai-agents-applying-kafka-pub-sub-and-redis-to-scale-llm-systems-b2ff08b3ba01"
+    },
+    {
+      "title": "Vector Databases vs. Graph Databases for AI: A Practical Decision Framework",
+      "platform": "Medium",
+      "category": "RAG · Data Architecture",
+      "summary": "A decision framework for choosing semantic retrieval, graph relationships or a combination of both.",
+      "url": "https://medium.com/@gashwin7/vector-databases-vs-graph-databases-for-ai-a-practical-decision-framework-383505f108c4"
+    },
+    {
+      "title": "Decoding the AI Race: OpenAI vs. LLaMA vs. DeepSeek",
+      "platform": "Medium",
+      "category": "AI Research",
+      "summary": "A comparative exploration of major language-model ecosystems and their architectural trade-offs.",
+      "url": "https://medium.com/@gashwin7/decoding-the-ai-race-openai-vs-llama-vs-deepseek-which-model-leads-the-future-3142b3cb9fc0"
+    },
+    {
+      "title": "Building an Authorization Gateway for AI Agents: A Practical Architecture",
+      "platform": "DEV.to",
+      "category": "AI Security · Cloud",
+      "summary": "Separating agent reasoning from trusted identity, policy evaluation, permission checks and audit logging.",
+      "url": "https://dev.to/ashwin-giridharan/building-an-authorization-gateway-for-ai-agents-a-practical-architecture-f5"
+    },
+    {
+      "title": "Building an Idempotent Execution Layer for AI Agents: Preventing Duplicate Payments",
+      "platform": "DEV.to",
+      "category": "Backend · Distributed Systems",
+      "summary": "Designing durable operation identity, safe retries and reconciliation for agent-triggered transactions.",
+      "url": "https://dev.to/ashwin-giridharan/building-an-idempotent-execution-layer-for-ai-agents-preventing-duplicate-payments-m8h"
+    }
+  ]
+}
